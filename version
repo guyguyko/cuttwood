@@ -1,4 +1,4 @@
 Plugin: cuttwood
 version: 0.2
-Enable: false
+Enable: true
 IP: 0.0.0.0
